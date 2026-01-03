@@ -18,7 +18,7 @@ This project focuses on predicting customer churn using machine learning techniq
 
 ## 🤖 Machine Learning Models
 - Logistic Regression
-- (Add others if used, e.g., Random Forest, XGBoost)
+- XGBoost
 
 ## 📊 Evaluation Metrics
 - Accuracy
